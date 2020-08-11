@@ -25,7 +25,7 @@ Uma plataforma de estudos online que visa conectar alunos e professores de forma
 git clone https://github.com/eliton-pedrotti/nextlevelweek-2.git
 
 # Entrar no diretório
-cd nlw-web
+cd nextlevelweek-2
 
 # Baixar as dependências
 npm install
