@@ -17,23 +17,35 @@
 Uma plataforma de estudos online que visa conectar alunos e professores de forma rápida e fácil.
 
 
+### 💾 Instalação
 
- ## ⌨ Como executar o projeto
+Clone este repositório:
 
 ```bash
-# Clonar o repositório
 git clone https://github.com/eliton-pedrotti/nextlevelweek-2.git
+```
 
-# Entrar no diretório
+Entre na pasta do projeto:
+
+```bash
 cd nextlevelweek-2
+```
 
-# Baixar as dependências
+Para instalar todas as depêndencias, execute:
+
+```bash
 npm install
+```
 
-# Executar o servidor
+Para rodar a aplicação, execute:
+
+```bash
 npm run dev
 ```
 
 Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
----
+
+Criado com ❤️ por Eliton Pedrotti.
+
+ 
